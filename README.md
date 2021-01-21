@@ -11,7 +11,7 @@
    <a><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/KBU-Dif?style=plastic"></a>
 </div>
 
-## Instructors
+## Instructor
 
  [Asst.Prof.Dr. Burhan SELÇUK](https://muh.karabuk.edu.tr/bilgisayar/index.php?page=detail&no=31)
 
